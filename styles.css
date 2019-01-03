@@ -1,0 +1,55 @@
+body{
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+}
+
+.jumbotron{
+    background-image:url(/pictures/bgCompresed_blur_jumbo.png);
+    background-size: cover;
+}
+
+
+.bg-custom{
+    background-image:url(/pictures/low_nav1.png);
+    background-size: cover;
+}
+
+.atext-c {
+    text-align: center;
+}
+
+.footer{
+    color: black;
+}
+
+.btn {
+    background-color: #5E301E;
+}
+
+.dropdown-toggle:active {
+    background-color: #5E301E;
+}
+.dropdown:active {
+    background-color: #5E301E;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: #5E301E;
+}
+
+a:hover {
+    text-decoration: none;
+    color: chocolate;
+}
+
+
+/* Set the size of the div element that contains the map */
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+}
